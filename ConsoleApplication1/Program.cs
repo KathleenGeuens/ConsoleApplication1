@@ -26,7 +26,8 @@ namespace ConsoleApplication1
             Console.WriteLine("*****************************");
             Console.WriteLine("Dus na {0} jaar zijn er meer dan 100 leeuwen, namelijk: {1} leeuwen.", jaar, Math.Round(aantalLeeuwen));
             Console.WriteLine("________________________________________________________________________________________________________")
-            Console.ReadKey();
+            
+                Console.ReadKey();
         }
     }
 }
